@@ -1,0 +1,39 @@
+.form {
+    background-color: #cdcdcd;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 100px;
+    color: #db7093;
+    border-radius: 5px;
+
+}
+
+.BV {
+    margin-left: 15px;
+}
+
+.label {
+    font-size: 18px;
+    margin: 0;
+}
+
+input {
+    border: solid 2px #32b0cd;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: #e6005a;
+    color: white;
+    border: 0;
+    border-radius: 7px;
+    width: 120px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 43px;
+}
+
